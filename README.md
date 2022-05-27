@@ -3,9 +3,8 @@
 I'm Yasira, a Software Developer.  I love taking challenges and that is one thing which helps me stay in track in track and keeps me going.
 
 🔭 I’m currently working on a todo application and group project about wedding reviews
-- 🌱 I’m currently learning redux
+- 🌱 I’m currently learning reduxJs liberay
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about software development
 - 📫 How to reach me:
 
