@@ -4,7 +4,7 @@ I'm Yasira, a Software Developer.  I love taking challenges and that is one thin
 
 🔭 I’m currently working on a todo application and group project about wedding reviews
 - 🌱 I’m currently learning reduxJs liberay
-- 👯 I’m looking to collaborate on projects
+- 👯Open to collaborations on projects
 - 💬 Ask me about software development
 - 📫 How to reach me:
 
