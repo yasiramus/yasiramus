@@ -4,7 +4,7 @@ I'm Yasira, a Software Developer.
 I'm a committed, reliable, dedecate and an easy going person.
 I love taking challenges and that is one thing which help keep me in track and keeps me going.
 
-🔭 I’m currently working on a todo application and group project about wedding reviews
+🔭 I’m currently working on a redux todo application and an rducational website.
 - 🌱 I’m currently learning reduxJs liberay
 - 👯 Open to collaborations on projects
 - 💬 Ask me about software development
