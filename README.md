@@ -4,10 +4,10 @@ I'm Yasira, a Software Developer.
 I'm a committed, reliable, dedecate and an easy going person.
 I love taking challenges and that is one thing which help keep me in track and keeps me going.
 
-🔭 I’m currently working on a redux todo application and an rducational website.
-- 🌱 I’m currently learning reduxJs liberay
+🔭 I’m currently working on an rducational website media queries.
+- 🌱 I’m currently learning object relational mapper (orm) which is sequalize
 - 👯 Open to collaborations on projects
-- 💬 Ask me about software development
+- 💬 Ask me about anything concerning software development
 - 📫 How to reach me:
 
 Email: yasirayusif@gmail.com
@@ -16,8 +16,8 @@ Email: yasirayusif@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/yasiramusah/
 
-- 😄 Pronouns: she
-- ⚡ Fun fact: I love travelling, reading of fictions, volunterring, and problem solving. 
+- 😄 Pronouns: she/ her
+- ⚡ Fun fact: I love travelling, reading of fictions, volunterring, problem solving, watch animations and action movies. 
 
 
 <!--
