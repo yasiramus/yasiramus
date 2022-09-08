@@ -9,7 +9,7 @@ Aside building and developing solutions, I enjoy community building and voluntee
 🔭 I’m currently working on a memories app using the mern stack approach and landing page summit.
 
 - 📘 Currently reading book title  Mindset(Changing The Way You think To Fulfil Your Potential, Updated Edition) by Dr CAROL S> DWERck.
-- 
+ 
 - 🌱 I’m currently learning object relational mapping (orm) which is sequalize
 - 👯 Open to collaborations on projects
 - 💬 Ask me about anything concerning software development
