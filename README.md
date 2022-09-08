@@ -18,15 +18,15 @@ Aside building and developing solutions, I enjoy community building and voluntee
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I love travelling, reading of fictions, volunterring, problem solving, watch animations and action movies. 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on</h3>
 <p align="left">
 <a href="https://twitter.com/HajjiaYasira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HajjiaYasira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yasiramusah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasiramusah/" height="30" width="40" /></a><a href="https://www.instagram.com/sira_the_niqqabist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sira-the-niqqabist/" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://www.instagram.com/sira_the_niqqabist" target="blank"><img src="https://img.shields.io/instagram/follow/sira_the_niqqabist?logo=instagram&style=for-the-badge" alt="sira_the_niqqabist"/></a> </p>
+<p align="left"> <a href="https://www.instagram.com/sira_the_niqqabist" target="blank"><img src="https://img.shields.io/instagram/follow/sira_the_niqqabist?logo=instagram&style=for-the-badge" alt="sira_the_niqqabist"/></a>
 
-<p align="left"> <a href="https://twitter.com/HajjiaYasira" target="blank"><img src="https://img.shields.io/twitter/follow/HajjiaYasira?logo=twitter&style=for-the-badge" alt="HajjiaYasira" /></a> </p>
+<a href="https://twitter.com/HajjiaYasira" target="blank"><img src="https://img.shields.io/twitter/follow/HajjiaYasira?logo=twitter&style=for-the-badge" alt="HajjiaYasira" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
