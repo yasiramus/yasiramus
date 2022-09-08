@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: yasirayusif@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: I love travelling, reading of fictions, hangout and being me 
+- ⚡ Fun fact: I love travelling, reading of fictions, hangout and being me. 
 -->
