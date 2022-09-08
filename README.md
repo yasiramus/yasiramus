@@ -8,22 +8,23 @@ Aside building and developing solutions, I enjoy community building and voluntee
  
 🔭 I’m currently working on a memories app using the mern stack approach and landing page summit.
 
-📘 Currently reading book title  Mindset(Changing The Way You think To Fulfil Your Potential, Updated Edition) by Dr CAROL S> DWERck.
-
+- 📘 Currently reading book title  Mindset(Changing The Way You think To Fulfil Your Potential, Updated Edition) by Dr CAROL S> DWERck.
+- 
 - 🌱 I’m currently learning object relational mapping (orm) which is sequalize
 - 👯 Open to collaborations on projects
 - 💬 Ask me about anything concerning software development
-- 📫 How to reach me:
-
-📧 Reach out to me through yasirayusif@gmail.com
-
- Twitter : @HajjiaYasira
-
-LinkedIn : https://www.linkedin.com/in/yasiramusah/
+- 📫 Reach out to me through yasirayusif@gmail.com
 
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I love travelling, reading of fictions, volunterring, problem solving, watch animations and action movies. 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/HajjiaYasira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HajjiaYasira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasiramusah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasiramusah/" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <a href="https://twitter.com/HajjiaYasira" target="blank"><img src="https://img.shields.io/twitter/follow/HajjiaYasira?logo=twitter&style=for-the-badge" alt="HajjiaYasira" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,6 +44,7 @@ LinkedIn : https://www.linkedin.com/in/yasiramusah/
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
  </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiramus&show_icons=true&locale=en&layout=compact" alt="yasira" /></p>
 
