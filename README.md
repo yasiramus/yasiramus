@@ -6,9 +6,9 @@ I love taking challenges and that is one thing which help keep me in track and k
 
 Aside building and developing solutions, I enjoy community building and volunteering to mentor newbies to tech.
  
-🔭 I’m currently working on a memories app using the mern stack approach and landing page summit.
+🔭 I’m currently working on pokemon website.
 
-- 📘 Currently reading book title  Mindset(Changing The Way You think To Fulfil Your Potential, Updated Edition) by Dr CAROL S. DWERck.
+- 📘 Currently reading book title  Who Will Cry When You Die by Dr ROBIN SHARMA.
  
 - 🌱 I’m currently learning object relational mapping (orm) which is sequalize
 - 👯 Open to collaborations on projects
