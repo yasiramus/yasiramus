@@ -2,15 +2,15 @@
 
 I'm Yasira, a Software Developer. 
 I'm a committed, reliable, dedicated and an easy going person.
-I love taking challenges and that is one thing which help keep me in track and keeps me going.
+I love taking up challenges and that is one thing which help keep me in track and going.
 
-Aside building and developing solutions, I enjoy community building and volunteering to mentor newbies to tech.
+Aside building and developing solutions, I enjoy community building, volunteering and mentor newbies to tech.
  
-🔭 I’m currently working on pokemon website.
+🔭 I’m currently working on gym website.
 
 - 📘 Currently reading book title  Who Will Cry When You Die by Dr ROBIN SHARMA.
  
-- 🌱 I’m currently learning object relational mapping (orm) which is sequalize
+- 🌱 I’m currently learning Data Structures and Algorithm (DSA)
 - 👯 Open to collaborations on projects
 - 💬 Ask me about anything concerning software development
 - 📫 Reach out to me through yasirayusif@gmail.com
