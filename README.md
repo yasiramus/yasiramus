@@ -1,22 +1,22 @@
 ### Hi there 👋 
 
-I'm Yasira, a Software Developer. 
-I'm a committed, reliable, dedicated and an easy going person.
-I love taking up challenges and that is one thing which help keep me in track and going.
+I'm Yasira, a Software Engineer. 
+I'm a committed, reliable, dedicated and an easy going person just as the meaning of my name (Wealth and easy)😄.
+I love to take up challenges and that is one thing which keeps me in track and going.
 
-Aside building and developing solutions, I enjoy community building, volunteering and mentor newbies to tech.
+Aside building and developing solutions, I enjoy community building, volunteering, mentor and adventures.
  
 🔭 I’m currently working on gym website.
 
-- 📘 Currently reading book title  Who Will Cry When You Die by Dr ROBIN SHARMA.
+- 📘 Currently reading book title Who Will Cry When You Die by Dr ROBIN SHARMA.
  
-- 🌱 I’m currently learning Data Structures and Algorithm (DSA)
+- 🌱 I’m currently learning typescripts
 - 👯 Open to collaborations on projects
 - 💬 Ask me about anything concerning software development
 - 📫 Reach out to me through yasirayusif@gmail.com
 
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: I love travelling, reading of fictions, volunterring, problem solving, watch animations and action movies. 
+- ⚡ Fun fact: I love travelling, reading of fictions, volunterring, eating, watching animations and action movies and hangout. 
 
 <h3 align="left">Connect with me on</h3>
 <p align="left">
