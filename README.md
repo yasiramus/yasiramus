@@ -1,7 +1,8 @@
 ### Hi there 👋 
 
 I'm Yasira, a Software Engineer. 
-I'm a committed, reliable, dedicated and an easy going person just as the meaning of my name (Wealth and easy)😄.
+I'm a committed, reliable, dedicated and an easy going person just as the meaning of my name (wealth and easy)😄.
+
 I love to take up challenges and that is one thing which keeps me in track and going.
 
 Aside building and developing solutions, I enjoy community building, volunteering, mentor and adventures.
