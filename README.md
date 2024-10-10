@@ -1,23 +1,23 @@
 ### Hi there 👋 
 
 I'm Yasira, a Software Engineer. 
-I'm a committed, reliable, dedicated and an easy going person just as the meaning of my name (wealth and easy)😄.
+I'm a committed, reliable, dedicated, and easygoing person just as the meaning of my name (wealth and easy)😄.
 
-I love to take up challenges and that is one thing which keeps me in track and going.
+I love to take up challenges and that is one thing that keeps me on track and going.
 
-Aside building and developing solutions, I enjoy community building, volunteering, mentor and adventures.
+Aside from building and developing solutions, I enjoy community building, volunteering, mentoring, and adventures.
  
-🔭 I’m currently working on gym website.
+🔭 I’m currently working on a real estate website.
 
-- 📘 Currently reading book title Who Will Cry When You Die by Dr ROBIN SHARMA.
+- I 📘 Currently reading a book titled Dead Poet Society by Dr ROBIN WillIAM.
  
-- 🌱 I’m currently learning typescripts
+- 🌱 I’m currently learning What Gemini Ai and Nx are all about
 - 👯 Open to collaborations on projects
 - 💬 Ask me about anything concerning software development
 - 📫 Reach out to me through yasirayusif@gmail.com
 
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: I love travelling, reading of fictions, volunterring, eating, watching animations and action movies and hangout. 
+- ⚡ Fun fact: I love traveling, reading fiction, volunteering, eating, watching animations and action movies, and hanging out. 
 
 <h3 align="left">Connect with me on</h3>
 <p align="left">
