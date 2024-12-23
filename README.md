@@ -5,16 +5,16 @@ I'm a committed, reliable, dedicated, and easygoing person just as the meaning o
 
 I love to take up challenges and that is one thing that keeps me on track and going.
 
-Aside from building and developing solutions, I enjoy community building, volunteering, mentoring, and adventures.
+Aside from building and developing solutions, I enjoy community building, volunteering, mentoring, adventures, reading, and watching exciting movies.
  
-🔭 I’m currently working on a real estate website.
+🔭 I’m currently working on building components.
 
-- I 📘 Currently reading a book titled Dead Poet Society by Dr ROBIN WillIAM.
+- I 📘 Currently reading a book titled The Smart Money Women.
  
-- 🌱 I’m currently learning What Gemini Ai and Nx are all about
+- 🌱 I’m currently exploring Next and Nx are all about
 - 👯 Open to collaborations on projects
 - 💬 Ask me about anything concerning software development
-- 📫 Reach out to me through yasirayusif@gmail.com
+- 📫 Reach out to me through yasiratumusah@gmail.com
 
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I love traveling, reading fiction, volunteering, eating, watching animations and action movies, and hanging out. 
