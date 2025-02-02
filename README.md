@@ -9,9 +9,9 @@ Aside from building and developing solutions, I enjoy community building, volunt
  
 🔭 I’m currently working on building components.
 
-- I 📘 Currently reading a book titled The Smart Money Women.
+- I 📘 Currently reading a book titled The Atomic habit by James Clear.
  
-- 🌱 I’m currently exploring Next and Nx are all about
+- 🌱 I’m currently exploring AWS cloud service.
 - 👯 Open to collaborations on projects
 - 💬 Ask me about anything concerning software development
 - 📫 Reach out to me through yasiratumusah@gmail.com
