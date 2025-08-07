@@ -1,13 +1,13 @@
 ### Hi there 👋 
 
 I'm Yasira, a Software Engineer. 
-I'm a committed, reliable, dedicated, and easygoing person just as the meaning of my name (wealth and easy)😄.
+I'm a committed, reliable, dedicated, and easy going person just as the meaning of my name (wealth and easy)😄.
 
 I love to take up challenges and that is one thing that keeps me on track and going.
 
 Aside from building and developing solutions, I enjoy community building, volunteering, mentoring, adventures, reading, and watching exciting movies.
  
-🔭 I’m currently working on building components.
+🔭 I’m currently working on an education platform apis for both admins and super admin.
 
 - I 📘 Currently reading a book titled The Atomic habit by James Clear.
  
